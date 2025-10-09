@@ -1,6 +1,8 @@
 # pBird-Edge
 Custom FDP focused training edge for climbers. This device is intended to be an ergonomic egde, that focuses on training the FDP tendon(s). Tendon isolation is acheived by enforcing certain joint angles when lifting, when the intended form is lost or can no longer be held, the rollers force the user to drop the device (heavy inspiration from NS Climber Mobeta and his Hand of God training device). The joint angles are enforced by the geometry of the device.  
 
+![alt text](https://github.com/dn757657/pBird-Edge/blob/main/media/pBird1.jpg?raw=true)
+
 # Basics
 There does not appear to be explicit agreement concerning joint angles in the small academic survey conducted to make these models/devices. Based on my interpretation of the works cited below, a good starting point for FDP isolation is: Wrist 0, MCP 15, PIP 55, DIP 55 joint angles in degrees.
 
