@@ -51,7 +51,7 @@ This is all the measurements required for making a custom pBird Device.
 For now models are only available as solidworks models, I am not aware of methods for converting to open source models and maintaining the parametric relationships within the assembly for custom finger layouts, but reach out if you have a solution to make models available in other softwares (or just do it). The models have not been trialed with many different hands, despite doing my best to make them parametric and adaptable, some tweaking may be required. Please post an issue/PR if you have fixes or improvements.
 
 Some basics about the model:
-- each finger is a subassmbly conatining some master geometry (pBird_master) that is shared among fingers
+- each finger is a subassmbly containing some master geometry (pBird_master) that is shared among fingers
   - this makes adjusting these shared features easy as theyre all shared, changing one means changing them all
   - some exmaples being ledge size, roller offsets, etc
 - each finger base has a finger sketch, most of the finger measurements go here
